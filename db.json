@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "name": "Jordan 1 High",
+      "description": "The Air Jordan 1 High debuted in 1985 as the first signature sneaker developed by Nike for Michael Jordan",
+      "price": "3900",
+      "id": 1
+    },
+    {
+      "name": "Jordan 1 low",
+      "price": "4000",
+      "description": "The Air Jordan 1 Low is a lifestyle sneaker from Brand Jordan, a subsidiary of NIKE, Inc.",
+      "id": 2
+    },
+    {
+      "name": "Jordan 1 Mid",
+      "description": "The Air Jordan 1 Mid is hands-down one of the Jumpman's most divisive models.",
+      "price": "5000",
+      "id": 3
+    }
+  ]
+}
